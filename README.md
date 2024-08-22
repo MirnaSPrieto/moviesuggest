@@ -7,7 +7,7 @@ An interactive system utilizing various recommendation methodologies, including 
 ## Quién mantiene y contribuye con el proyecto.
 
 ### Integrantes
-- [ ] Aca se agregan (copiar y pegar)
+- [x] Juan Campos
 - [x] Lucel Da Silva
 
 > [!IMPORTANT]
