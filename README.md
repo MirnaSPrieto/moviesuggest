@@ -4,11 +4,20 @@ An interactive system utilizing various recommendation methodologies, including 
 ## Qué hace el proyecto.
 Este proyecto toma los datos de películas y sus raitings de una plataforma publicados en la web. Los analiza y aplica filtros para determinar los títulos mas votados. Buscando similutudes en los comportamientos de los usuarios que hayan expresados sus votos, para recomendarle películas de estilo similar aproximado a sus preferencias.
 
-## Por qué el proyecto es útil.
-Para detectar las películas mejor calificadas dentro de una pataforma de streaming. También para recomendar títulos a usuarios en base a sus opiniones positivas, teniendo en cuenta sus preferencias expresadas en forma de votos dentro de la plataforma.  
+## Desafío del proyecto
+¡Imagina tener acceso a los datos de una plataforma de streaming y usar esos datos para mejorar la experiencia del usuario!
+Como científicos de datos, analizamos estos datos con Python y construimos un recomendador de películas personalizado que ofrecerá sugerencias precisas y relevantes, revolucionando la forma en que los usuarios descubren nuevos contenidos.
 
-## Uso del proyecto
-Para diferentes tipos de recomendaciones.
+Objetivos
+              
+              Recomendador No personalizado
+
+              Recomendador Content-based
+
+              Recomendador Collaborative Filtering
+              
+## Para qué es útil.
+Para detectar las películas mejor calificadas dentro de una pataforma de streaming. También para recomendar títulos a usuarios en base a sus opiniones positivas, teniendo en cuenta sus preferencias expresadas en forma de votos dentro de la plataforma.  
 
 ## <h3 align="center">🛠️ Miembros del Equipo</h3>
 <br>
