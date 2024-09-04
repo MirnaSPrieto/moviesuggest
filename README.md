@@ -39,7 +39,7 @@ Para detectar las películas mejor calificadas dentro de una pataforma de stream
 - [X] Giovanni Roncancio
 - [X] Wilfer Alexander
 - [X] Mirna S. Prieto
-- [ ] Raul DS
+
        
 > [!IMPORTANT]
 > Esto fue un proyecto que participamos los miembros del canal del
