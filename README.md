@@ -8,14 +8,11 @@ Este proyecto toma los datos de películas y sus raitings de una plataforma publ
 ¡Imagina tener acceso a los datos de una plataforma de streaming y usar esos datos para mejorar la experiencia del usuario!
 Como científicos de datos, analizamos estos datos con Python y construimos un recomendador de películas personalizado que ofrecerá sugerencias precisas y relevantes, revolucionando la forma en que los usuarios descubren nuevos contenidos.
 
-Objetivos
-              
-              Recomendador No personalizado
+## Objetivos
+- [x] Recomendador No personalizado
+- [x] Recomendador Content-based
+- [X] Recomendador Collaborative Filtering
 
-              Recomendador Content-based
-
-              Recomendador Collaborative Filtering
-              
 ## Para qué es útil.
 Para detectar las películas mejor calificadas dentro de una pataforma de streaming. También para recomendar títulos a usuarios en base a sus opiniones positivas, teniendo en cuenta sus preferencias expresadas en forma de votos dentro de la plataforma.  
 
@@ -29,18 +26,10 @@ Para detectar las películas mejor calificadas dentro de una pataforma de stream
 |**Lucel Da Silva**|![](https://img.shields.io/badge/DATA%20SCIENTIST-blue?style=for-the-badge)| <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/jumacaq/">[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luceldasilva/)</a>
 |**Juan Campos**|![](https://img.shields.io/badge/DATA%20SCIENTIST-blue?style=for-the-badge)| <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/jumacaq/">[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jumacaq/)</a> |
 |**Wilfer Alexander**|![](https://img.shields.io/badge/DATA%20SCIENTIST-blue?style=for-the-badge)|
-|**Giovanni Roncancio**|![](https://img.shields.io/badge/DATA%20SCIENTIST-blue?style=for-the-badge)|
+|**Giovanni Roncancio**|![](https://img.shields.io/badge/DATA%20SCIENTIST-blue?style=for-the-badge)| <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/jumacaq/">[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-roncancio-ds/)</a> |
 
 </div> 
 
-### Integrantes
-- [x] Juan Campos
-- [x] Lucel Da Silva
-- [X] Giovanni Roncancio
-- [X] Wilfer Alexander
-- [X] Mirna S. Prieto
-
-       
 > [!IMPORTANT]
 > Esto fue un proyecto que participamos los miembros del canal del
 > 
