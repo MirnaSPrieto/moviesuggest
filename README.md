@@ -2,7 +2,7 @@
 Movie Recommender Project. 
 An interactive system utilizing various recommendation methodologies, including non-personalized, content-based, and collaborative filtering approaches.
 ## Qué hace el proyecto.
-Este proyecto toma los datos de películas y sus raitings de una plataforma publicados en la web. Los analiza y aplica filtros para determinar los títulos mas votados. Buscando similutudes en los comportamientos de los usuarios que hayan expresados sus votos, para recomendarle películas de estilo similar aproximado a sus preferencias.
+Este proyecto toma los datos de películas y sus calificaciones de una plataforma publicados en la web. Los analiza y aplica filtros para determinar los títulos mas votados. Buscando similutudes en los comportamientos de los usuarios que hayan expresados sus votos, para recomendarle películas de estilo similar aproximado a sus preferencias.
 
 ## Desafío del proyecto
 ¡Imagina tener acceso a los datos de una plataforma de streaming y usar esos datos para mejorar la experiencia del usuario!
